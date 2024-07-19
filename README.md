@@ -26,7 +26,6 @@ This repository contains a simple number guessing game implemented in Java. The 
 - **Hint System:** Provide hints to the player after a certain number of incorrect guesses.
 
 ## How to Run
-## How to Run
 
 1. Clone the repository:
    ```bash
